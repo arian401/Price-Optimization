@@ -1,0 +1,9 @@
+[
+  "total_spent",
+  "avg_order_value",
+  "avg_purchase_frequency",
+  "days_since_last_purchase",
+  "discount_behavior",
+  "loyalty_program_member",
+  "days_in_advance"
+]
